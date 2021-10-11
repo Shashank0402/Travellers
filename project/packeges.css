@@ -1,0 +1,10 @@
+@import url(style.css);
+
+.packages{
+  padding:10rem 10%;
+}
+.packages input-group{
+  padding: 1rem 10%;
+  margin: 3rem;
+  padding-bottom: 10rem;
+}
